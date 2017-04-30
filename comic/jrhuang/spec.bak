@@ -1,0 +1,40 @@
+placeholder
+easy->taff: 我是黄金荣 (speaking/standing1)
+taff->easy: 我是黄金荣的手下 (speaking/standing1)
+
+placeholder
+nibbles->melon: 我是共产党员A (speaking/standing1)
+melon->nibbles: 我是共产党员B (speaking/standing1)
+
+placeholder* 黑社会势力被清除之前，黑帮横行，社会动荡，balabala……
+
+placeholder
+easy: 上海快解放了，我们该想想怎么对付新来的共产党了 (bored/standing1)
+taff: 老大莫方，我可以带人去打爆他们！ (speaking/pointing)
+
+placeholder
+easy& 笑话，青帮手下打手虽多，可真要打起来怎是军队的对手？硬来肯定不行，我还是合作求个自保吧。 (annoyed/standing2)
+
+placeholder* 与此同时，中国共产党内部正在进行一场会议……
+
+placeholder
+nibbles: 上海快解放了，我们该想想怎么对付那里猖獗的黑帮了 (speaking/standing1)
+melon: 那可是黑社会啊，新中国怎么能允许这种反革命组织存在呢？必须彻底铲除！ (annoyed/exclaiming)
+
+placeholder
+nibbles: 没错，可是考虑到balabala，我们可以给他宽大处理 (listening/explaining)
+melon: 嗯，但是balabala，所以也不能太便宜他 (listening2/standing1)
+
+placeholder
+nibbles: 你知不知罪？……检讨……balabala……自述悔过书…… (surprised/pointing)
+easy: 我错了我错了……重新做人……balabala……大世界扫马路…… (angry/surprised)
+
+placeholder
+taff: 老大为何不去台湾？……卷土重来……balabala……逃离大陆…… (surprised/question)
+easy: 你以为我没想到？……深思熟虑……balabala……安度晚年…… (speaking/explaining)
+
+placeholder* 黑社会势力被清除之后，社会暂时稳定，百废待兴，社会主义建设balabala……
+
+placeholder* To be continued...(?)
+
+
